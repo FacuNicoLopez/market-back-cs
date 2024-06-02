@@ -9,7 +9,7 @@ Este repositorio contiene la API de back-end para la aplicación del repositorio
 ## La Base de datos contiene lo siguiente:
 - **Usuarios(Administradores)**: Almacena informacion de los clientes y articulos(ABM).
 - **Cliente**: Puede ingresar dinero en su billetera y hacer compras de los articulos.
-- **Articulo**: Almacena informaciOn de los artículos disponibles.
+- **Articulo**: Almacena informacion de los artículos disponibles.
 - **Carrito**: Almacena los articulos/productos agregados al carrito de un cliente.
 - **Billeteras**: Almacena el saldo de las billeteras virtuales de los clientes.
 - **Transacciones**: Registra las transacciones realizadas en las billeteras virtuales.
