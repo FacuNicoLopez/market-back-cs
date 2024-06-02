@@ -1,10 +1,10 @@
 ## Market Back-End (C#)
 Este repositorio contiene la API de back-end para la aplicación del repositorio market-flutter.
 
-## Descripcion
-1. API para la gestion de un mercado virtual con funcionalidades para usuarios y clientes.
-2. Front-End en Flutter.
-3. Uso de Base de datos SQL Server.
+## Estructura del proyecto:
+- API para la gestion de un mercado virtual con funcionalidades para usuarios y clientes.
+- Front-End en Flutter.
+- Uso de Base de datos SQL Server.
 
 ## La Base de datos contiene lo siguiente:
 - **Usuarios(Administradores)**: Almacena informacion de los clientes y articulos(ABM).
@@ -14,7 +14,7 @@ Este repositorio contiene la API de back-end para la aplicación del repositorio
 - **Billeteras**: Almacena el saldo de las billeteras virtuales de los clientes.
 - **Transacciones**: Registra las transacciones realizadas en las billeteras virtuales.
 
-## DETALLE
+## Detalle
 - **Todavia falta integrar el desarrollo de depositos y transferencias.**
 - **Tener en cuenta la conexion y configuracion entre lenguajes.**
 
