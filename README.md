@@ -1,13 +1,17 @@
 # Market Back-End (C#)
+
 Este repositorio contiene la API de back-end para la aplicación de mercado.
 
 
 ##Descripcion
+
 API para la gestion de un mercado virtual con funcionalidades para usuarios y clientes.
 Tener en cuenta la configuracion y conexión a la base de datos SQL Server(u otro SQL).
 
 
 ##Consultas SQL
+
+
 Usuarios(Administradores): Almacena informacion de los clientes y articulos(ABM).
 Cliente: Puede ingresar dinero en su billetera y hacer compras de los articulos.
 Articulo: Almacena informaciOn de los artículos disponibles.
