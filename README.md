@@ -15,7 +15,8 @@ Este repositorio contiene la API de back-end para la aplicación del repositorio
 - **Transacciones**: Registra las transacciones realizadas en las billeteras virtuales.
 
 ## DETALLE
-- **Estoy trabajando en integrar pagos virtuales para los depositos o transferencias.**
+- **Todavia falta integrar el desarrollo de depositos y transferencias.**
+- **Tener en cuenta la conexion y configuracion entre lenguajes.**
 
 ## ----> CREAR TABLAS <----
           
